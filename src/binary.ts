@@ -18,8 +18,9 @@ export function binaryToDecimal(input: string): string {
 };
 
 /**
- * 
- * @param input 
+ * Fonction qui convertie un nombre décimal en nombre binaire
+ * @param input {string} est la chaine de caractère contenant le nombre décimal
+ * @return {string} le nombre binaire
  */
 export function decimalToBinary(input: string): string {
     if (isNaN(Number(input))) throw new Error(input + " is not a decimal number.");
