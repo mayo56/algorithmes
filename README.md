@@ -1,4 +1,4 @@
 # Algorithme JS/TS pour le fun
-### src/binary.ts
+### <a href="https://github.com/mayo56/algorithmes/blob/master/src/binary.ts">src/binary.ts</a>
 - Convertisseur binaire/décimal
 - Convertisseur décimal/binaire
