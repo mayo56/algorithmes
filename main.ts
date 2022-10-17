@@ -1,5 +1,3 @@
-import { binaryToDecimal, decimalToBinary, hexToDecimal } from "./src/allBasesNumber";
+import { binToDec, decToBin, hexToDec, hexToBin } from "./src/allBasesNumber";
 
-console.log(binaryToDecimal("100000"))
-console.log(decimalToBinary("8122"))
-console.log(hexToDecimal("15ff"))
+console.log(decToBin("18"));
